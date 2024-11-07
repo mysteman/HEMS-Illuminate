@@ -9,10 +9,9 @@ The **Home Energy Management System (HEMS)** is a system designed to optimize re
 
 This system uses machine learning models and optimization algorithms to predict energy consumption, solar generation, and tariff rates, and dynamically schedules appliance usage to reduce overall electricity costs.
 
-Backend, Frontend, and ML/Optimization Links
-Backend: Illuminate Backend
-Frontend: Illuminate Frontend
-ML and Optimization Models: Illuminate ML & Optimization
+- **Backend**: [HEMS Backend](https://github.com/MelvinYG/Illuminate-Backend)
+- **Frontend**: [HEMS Frontend](https://github.com/MelvinYG/Illuminate)
+- **ML and Optimization Models**: [HEMS ML & Optimization](https://github.com/mysteman/Illuminate-ML-Optimization-models)
 
 ## Features
 
