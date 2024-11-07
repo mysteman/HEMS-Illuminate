@@ -76,5 +76,3 @@ The system uses the following steps to optimize energy usage:
 **Total Solar Utilization**: 18%
 
 ---
-
-This README provides a comprehensive overview of your project, its setup, features, and how it works. Feel free to modify it based on your actual implementation details and usage specifics.
